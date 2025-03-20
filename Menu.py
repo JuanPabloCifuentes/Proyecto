@@ -9,4 +9,9 @@ menu_cliente = """
 ******Hola, Productos disponibles******
 1. Croasan 
 2. Pan de la Abuela 
+3. Mil hojas 
+4. Pan de arequite
+5. Pan de miel
+6. Pan de queso. 
 """
+
